@@ -18,8 +18,8 @@ In addition to these attributes, there are many more available for analysis, mak
 ## Methodology
 
 1. Data Collection
-2. **Data Cleaning**
-3. **Exploratory Data Analysis (EDA)**
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
 
 ### EDA Plan
 
